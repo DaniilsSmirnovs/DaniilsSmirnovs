@@ -4,7 +4,7 @@
 - 🤝 Open to collaborations — feel free to reach out if you have a project in mind!
 - 📫 Reach me at daniilssmirnovs11@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Lord of the Rings — probably too much.
+- ⚡ Fun fact: I love Lord of the Rings, and probably too much. Now code, you fools!
 
 <!---
 DaniilsSmirnovs/DaniilsSmirnovs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
