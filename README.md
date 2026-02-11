@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DaniilsSmirnovs
-- 👀 I’m interested in data analysis — especially in health, psychology and social research.
-- 🗂️ You can check my portfolio [here](https://marred-panther-15d.notion.site/Daniils-Smirnovs-Data-Portfolio-22325d669f918055aab5e63b4a4f0821?pvs=74)
-- 🌱 Currently building my skills in SQL and Tableau.
+- 👀 I’m interested in data analysis — especially in health and social research.
+- 🌱 Currently building my skills in Python and Power BI.
 - 🤝 Open to collaborations — feel free to reach out if you have a project in mind!
 - 📫 Reach me at daniilssmirnovs11@gmail.com
 - 😄 Pronouns: he/him
